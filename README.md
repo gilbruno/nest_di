@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This little project aims at using correctly the integrated Dependency Injection Container of [Nest](https://github.com/nestjs/nest).
 
 ## Installation
 
